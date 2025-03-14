@@ -243,4 +243,82 @@ footer{
 	height: 100%;
 }
 
+/*--------------------------Help----------------------------*/
+.help {
+	height: 1080px;
+	align-items: flex-start;
+}
+
+.help-container {
+	width: 100%;
+	height: 932px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.help-title {
+	width: 500px;
+}
+
+.help-body {
+	width: 100%;
+	height: 641px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+	padding: 0 35px 0 0;
+}
+
+.help-img {
+	display: inline-block;
+	width: 611px;
+	height: 932px;
+}
+
+.help-body-items {
+	width: 405px;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.help-body-item {
+	height: 193px;
+}
+
+.help-item-card {
+	display: flex;
+}
+
+.help-item-icon {
+	width: 58px;
+	height: 58px;
+}
+
+.help-item-description {
+	margin: 0 0 0 47px;
+}
+
+.help-item-title {
+	font-size: 22px;
+	line-height: 125%;
+	text-align: left;
+}
+
+.help-item-text {
+	margin: 37px 0;
+	line-height: 27px;
+
+}
+
+.help-item-separator {
+	width: 100%;
+	height: 1px;
+	background-color: #455880;
+	opacity: 20%;
+}
+
 /*--------------------------    ----------------------------*/
