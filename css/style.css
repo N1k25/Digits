@@ -321,4 +321,35 @@ footer{
 	opacity: 20%;
 }
 
-/*--------------------------    ----------------------------*/
+/*--------------------------Simplicity----------------------------*/
+.simplicity{
+	height: 1001px;
+	background-color: #FFF9EA;
+	background-image: url('/img/image-3.png');
+	background-size: 100% 50%;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	align-items: flex-start;
+}
+
+.simplicity-container {
+	margin: 139px 0 0 0;
+}
+
+.simplicity-text {
+	font-size: 21px;
+	line-height: 150%;
+	text-align: center;
+	margin: 40px 0;
+}
+
+.simplicity-btn {
+	width: 148px;
+	height: 50px;
+	border-radius: 100px;
+	margin: 0 auto;
+	font-size: 16px;
+	line-height: 100%;
+}
+
+/*--------------------------      ----------------------------*/
