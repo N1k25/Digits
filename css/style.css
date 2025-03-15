@@ -409,4 +409,53 @@ footer{
 	text-align: center;
 }
 
+/*--------------------------Get----------------------------*/
+.get {
+	height: 323px;
+	color: #ffffff;
+	background-color: #3751FF;
+}
+
+.get-container {
+	width: 100%;
+	height: 120px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+}
+
+.get-title {
+	width: 400px;
+	color: #ffffff;
+	text-align: left;
+}
+
+.get-btn {
+	width: 245px;
+	height: 56px;
+	border-radius: 100px;
+	background-color: #ffffff;
+	gap: 15px;
+	margin: 0 0 19px 50px;
+}
+.get-btn img{
+	display: inline-block;
+	width: 29px;
+	height: 29px;
+}
+.get-btn-text{
+	line-height: 110px;
+	font-size: 18px;
+}
+
+.get-description {
+	font-size: 16px;
+	line-height: 125%;
+	text-align: right;
+	color: #DFE0EB;
+}
+.get-description span{
+	color: orange;
+}
+
 /*--------------------------     ----------------------------*/
